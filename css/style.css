@@ -26,8 +26,8 @@ header h1 {
 ul {
   background: Yellow;
   padding: 10px;
-  position: sticky;
-  top: 100px;
+  position: fixed;
+  top: 50px;
 }
 
 ul li {
@@ -66,6 +66,8 @@ article h2 {
   margin: 5px 10px 5px 10px;
   padding: 10px;
   background: pink;
+  position: relative;
+  left: 300px;
 }
 
 article p {
@@ -78,6 +80,8 @@ article p {
 
 footer {
   background: Yellow;
+  position: absolute;
+  top: 300px;
 }
 
 footer h3 {
