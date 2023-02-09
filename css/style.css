@@ -29,6 +29,7 @@ ul {
   padding: 10px;
   position: fixed;
   top: 50px;
+  z-index: 6;
 }
 
 ul li {
@@ -69,6 +70,7 @@ article h2 {
   background: pink;
   position: relative;
   left: 150px;
+  z-index: 5;
 }
 
 article p {
@@ -77,6 +79,7 @@ article p {
   margin: 5px 10px 5px 10px;
   padding: 10px;
   background: Yellow;
+  z-index: 4;
 }
 
 footer {
@@ -107,7 +110,7 @@ div {
   background-color: blue;
   border-color: yellow;
   position: relative;
-  top: -10px;
+  top: -200px;
   left: 80px;
 }
 
@@ -123,8 +126,8 @@ div {
   z-index: 2;
   background-color: green;
   position: relative;
-  top: 30px;
-  left: 40px;
+  top: -30px;
+  left: 45px;
 }
 
 #to_plaatje{
