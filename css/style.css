@@ -14,6 +14,7 @@ header {
   height: 150px;
   position: sticky;
   top: 100px;
+  margin-bottom: 100px;
 }
 
 header h1 {
@@ -67,7 +68,7 @@ article h2 {
   padding: 10px;
   background: pink;
   position: relative;
-  left: 300px;
+  left: 150px;
 }
 
 article p {
@@ -81,7 +82,7 @@ article p {
 footer {
   background: Yellow;
   position: absolute;
-  top: 300px;
+  top: 750px;
 }
 
 footer h3 {
