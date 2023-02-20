@@ -139,4 +139,5 @@ div {
   float: right;
   width: 300px;
   margin: 50px;
+  z-index: 7;
 }
