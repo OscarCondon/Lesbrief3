@@ -146,3 +146,12 @@ div {
 .color_change:hover{
   background-color: lightgreen;
 }
+
+a:active{
+  color: purple;
+}
+
+p:last-child{
+  background-color: blue;
+  border: 5px dashed yellow;
+}
